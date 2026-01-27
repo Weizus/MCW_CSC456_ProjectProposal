@@ -1,2 +1,17 @@
-# MCW_CSC456_ProjectProposal
-A repository with a single readme detailing a potential project that me and my peers can tackle throughout the semester. Contains also the assignment pdf.
+# Product Proposal
+
+| Project Name | placeholder |
+| :--- | :----: |
+| Primary Users | lorem ipsum |
+| Features | lorem ipsum |
+| Benefits | 
+- 1
+- 2
+- 3
+|
+
+# Pitch 
+    Lorem Ipsum
+
+# Description
+    Lorem Ipsum
